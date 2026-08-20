@@ -506,3 +506,23 @@ a {
         padding: 40px 30px 60px;
     }
 }
+
+ .contador-card {
+            background: white;
+            padding: 2rem;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            text-align: center;
+ }
+ 
+ #visitas {
+            font-size: 3rem;
+            font-weight: bold;
+            color: #007bff;
+            margin: 10px 0;
+        }
+
+        .mensaje {
+            color: #666;
+            font-size: 0.9rem;
+        }
